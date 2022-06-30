@@ -5,6 +5,7 @@ REM https://youtube.com/techchipnet
 DELAY 500
 GUI r
 DELAY 1000
+REM Opening CMD In A Very Small Window
 STRING cmd /k mode con: cols=14 lines=1
 DELAY 100
 ENTER
