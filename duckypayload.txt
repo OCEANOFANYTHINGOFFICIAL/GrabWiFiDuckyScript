@@ -5,7 +5,7 @@ REM https://youtube.com/techchipnet
 DELAY 500
 GUI r
 DELAY 1000
-STRING cmd /k mode con: cols=25 lines=1
+STRING cmd /k mode con: cols=14 lines=1
 DELAY 100
 ENTER
 DELAY 1000
