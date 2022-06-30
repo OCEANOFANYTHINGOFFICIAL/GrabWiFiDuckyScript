@@ -8,5 +8,12 @@ Replace your webhook URL
 </code>
 </pre>
 ### Video Demo
-[![How to control android camera](https://img.youtube.com/vi/lZkFXQ1XJPQ/0.jpg)](https://www.youtube.com/watch?v=lZkFXQ1XJPQ)
+- sorry YouTube Suspended The Video
+
+
+
+But Don't Worry You Can Watch This In My Website [CyberTube.net](https://cybertube.net)
+
+
+
 #### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
